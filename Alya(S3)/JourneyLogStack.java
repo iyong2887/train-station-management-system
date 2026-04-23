@@ -60,6 +60,7 @@ class TrainHistoryStack {
         return size;
     }
 
+    
     // DISPLAY
     public void displayHistory() {
         if (isEmpty()) {
