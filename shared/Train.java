@@ -15,7 +15,7 @@ public class Train {
     // Getter
     public String getID() {
         return id;
-    }git remote -v
+    }
 
     public String getOrigin() {
         return origin;
