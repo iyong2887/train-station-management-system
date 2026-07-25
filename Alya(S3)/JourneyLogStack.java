@@ -1,4 +1,4 @@
-class TrainHistoryStack {
+ class TrainHistoryStack {
 
     // Node class(linked list)
     class Node {
